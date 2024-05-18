@@ -51,7 +51,7 @@ function App() {
         <div className="pt-6 bg-white flex items-center">
           <img src={marcelo} alt="Marcelo"/>
           <a href="" className="pl-12 text-xl font-semibold flex items-center transition-transform transform hover:scale-110">
-            <h1>Venha vistir a armadura do maior campeão europeu com as camisas oficiais do Real Madrid!</h1>
+            <h1>Venha vistir a armadura do maior campeão europeu com as camisas oficiais do Real Madrid!!</h1>
             <img src={seta} alt="" className="h-52 w-52"/>
           </a>
         </div>
