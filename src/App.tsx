@@ -58,7 +58,7 @@ function App() {
         <div className="pt-6 flex items-center bg-gradient-to-r from-black to-gold  max-w-width100vw">
           <img src={reus} alt="reus" className="pl-5"/>
           <a href="" className=" text-white ml-12 text-xl font-semibold flex items-center transition-transform transform hover:scale-110">
-            <h1>Entre em campo com a energia do Muralha Amarela: adquira já sua camisa oficial do Borussia Dortmund!</h1>
+            <h1>Entre em campo com a energia do Muralha Amarela: adquira já sua camisa oficial do Borussia Dortmund!!</h1>
             <img src={setaBranca} alt="" className="h-52 w-52"/>
           </a>
         </div>
